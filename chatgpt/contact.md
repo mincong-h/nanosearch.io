@@ -14,10 +14,10 @@ The target readers are end-users who already signed up for the service and start
 If you encounter any questions related to ChatGPT QuickSearch Extension, our friendly, knowledgeable support engineers are here to help.
 
 * **Live Chat** Chat with us any business day between the hours of 09:00-18:00 Paris Time. You can reach us through our [Discord Server](https://discord.gg/SnkRVBG2).
-* **Email** Email _mincong.h [at] gmail.com_ and prefix your email with `[Chatsearch] XXX` to report an issue or anything else.
+* **Email** Email `mincong.h[at]gmail.com` and prefix your email with `[Chatsearch] XXX` to report an issue or anything else.
 
 As of 27 April 2024, the ChatGPT QuickSearch Extension is running under the alpha version (0.1) and the service is provided for free. Therefore, the support is provided at the best effort. But, please reach out! 🙏 Your feedback matters, a lot.
 
 ## Other
 
-If you have any opportunity for collaboration or just want to say hi, send us an email to _mincong.h [at] gmail.com_.
+If you have any opportunity for collaboration or just want to say hi, send us an email to `mincong.h[at]gmail.com`.
