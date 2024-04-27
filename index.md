@@ -4,10 +4,7 @@ title: ChatGPT QuickSearch Extension
 ---
 
 {% comment %}
-For this page:
-
-- The target users are prospects and end-users who want to use or already using our service
-
+The target readers are prospects and end-users who want to use or already using our service
 {% endcomment %}
 
 ## Overview
