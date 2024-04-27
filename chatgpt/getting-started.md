@@ -6,7 +6,7 @@ permalink: /chatgpt/getting-started
 ---
 
 {% comment %}
-The target users are end-users who already signed up for the service and want to use the service on their computers.
+The target readers are end-users who already signed up for the service and want to use the service on their computers.
 {% endcomment %}
 
 ## Introduction
