@@ -27,6 +27,7 @@ Interested? This product is currently in alpha testing. Contact: `mincong.h[at]g
 
 Here are some additional resources for you:
 
-* [**Getting started**](/chatgpt/getting-started): installation, sign-up, configuration, etc
-* [**Contact**](/chatgpt/contact): in case you want to reach out
-* [**Privacy**](/chatgpt/privacy): we collect the strict minimum of data from you for the proper functioning of our service. We don't sell your data to third-party services. For more details, please visit [the privacy statement](/chatgpt/privacy).
+* [**Getting started**](/chatgpt/getting-started): Installation, sign-up, configuration, etc
+* [**Contact**](/chatgpt/contact): In case you want to reach out for support, questions, or collaboration.
+* [**Privacy**](/chatgpt/privacy): We collect the strict minimum of data from you for the proper functioning of our service. We don't sell your data to third-party services. For more details, please visit [the privacy statement](/chatgpt/privacy).
+* [**Release Notes**](/chatgpt/releases/): The release notes of the extension since April 2024.
