@@ -33,7 +33,7 @@ Toolbar:
 <img
  src="/assets/2024-05-17-extension-in-chrome-toolbar.png"
  alt="ChatGPT QuickSearch Extension in Chrome Toolbar"
- style="max-width: 550px"
+ style="width: 100%; max-width: 550px"
 />
 
 Extensions from Chrome page (`chrome://extensions/`):

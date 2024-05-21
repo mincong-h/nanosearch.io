@@ -35,6 +35,7 @@ plugins:
   - jekyll-remote-theme
 
 # Project settings
+permalink: /blog/:title/
 github:
   is_project_page: false # disable button "View on GitHub"
 
