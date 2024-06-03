@@ -10,11 +10,11 @@ Inspired by:
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/es-release-notes.html
 {% endcomment %}
 
-{% comment %}
 ## Coming Soon
 
-We are going to release ChatGPT QuickSearch Extension 0.3.0. More details are coming soon.
-{% endcomment %}
+We are going to release ChatGPT QuickSearch Extension 0.2.1 on the [Chrome Web Store][cws]. We have improved the sign-in experience and added support for searching Chinese content.
+
+[Release notes v0.2.1](0.2.1)
 
 ## 17 May, 2024
 
