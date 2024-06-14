@@ -12,7 +12,13 @@ Inspired by:
 
 ## Coming Soon
 
-We are going to release ChatGPT QuickSearch Extension 0.2.1 on the [Chrome Web Store][cws]. We have improved the sign-in experience and added support for searching Chinese content.
+We are going to release the ChatGPT QuickSearch Extension 0.2.2 on the [Chrome Web Store][cws]. It brings several bug fixes to the extension.
+
+[Release notes v0.2.2](0.2.2)
+
+## 4 June, 2024
+
+We released the ChatGPT QuickSearch Extension 0.2.1 on the [Chrome Web Store][cws]. We have improved the sign-in experience and added support for searching Chinese content.
 
 [Release notes v0.2.1](0.2.1)
 
