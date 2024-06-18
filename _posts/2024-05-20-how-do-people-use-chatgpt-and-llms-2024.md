@@ -44,4 +44,4 @@ Based on the popularity of ChatGPT, users' high intensity of usage, the mix of c
 
 If you are interested in using the service, you can contact `mincong.h[at]gmail.com` to have early access for free. You can also visit the [product page][cs] for more details.
 
-[cs]: /chatgpt
+[cs]: /chatgpt/
