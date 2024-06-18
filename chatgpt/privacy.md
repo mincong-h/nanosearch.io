@@ -2,7 +2,6 @@
 layout: default
 title: Privacy Statement
 description: Privacy Statement For ChatGPT QuickSearch Extension
-permalink: /chatgpt/privacy
 ---
 
 {% comment %}

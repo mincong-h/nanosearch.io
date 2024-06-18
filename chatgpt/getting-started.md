@@ -2,7 +2,6 @@
 layout: default
 title: Getting Started
 description: Getting started with ChatGPT QuickSearch Extension
-permalink: /chatgpt/getting-started
 ---
 
 {% comment %}
