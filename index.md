@@ -15,4 +15,4 @@ Nanosearch is an online service that provides instant search solutions, which al
 
 ![highlight results](/assets/2024-04-24-search-bar-results.png)
 
-ChatGPT QuickSearch Extension is a browser extension that allows users to quickly search the conversation history directly in ChatGPT. Users can simply press <kbd>cmd</kbd> / <kbd>ctrl</kbd> + <kbd>K</kbd> to trigger it. This product is currently in alpha testing. See more details on the product page: <{{ site.url }}/chatgpt>
+ChatGPT QuickSearch Extension is a browser extension that allows users to quickly search the conversation history directly in ChatGPT. Users can simply press <kbd>cmd</kbd> / <kbd>ctrl</kbd> + <kbd>K</kbd> to trigger it. This product is currently in alpha testing. See more details on the product page: <{{ site.url }}/chatgpt/>
