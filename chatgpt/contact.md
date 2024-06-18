@@ -2,7 +2,6 @@
 layout: default
 title: Contact
 description: How can we help?
-permalink: /chatgpt/contact
 ---
 
 {% comment %}

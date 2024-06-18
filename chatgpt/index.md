@@ -2,7 +2,6 @@
 layout: default
 title: ChatGPT QuickSearch Extension
 description: Searching conversation history directly in ChatGPT.
-permalink: /chatgpt
 ---
 
 {% comment %}
