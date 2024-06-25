@@ -10,6 +10,12 @@ Inspired by:
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/es-release-notes.html
 {% endcomment %}
 
+## Coming Soon
+
+ChatGPT QuickSearch Extension 0.2.3 will be released on the [Chrome Web Store][cws]. It brings several bug fixes to the extension.
+
+[Release notes v0.2.3](0.2.3)
+
 ## 17 June, 2024
 
 ChatGPT QuickSearch Extension 0.2.2 is released on the [Chrome Web Store][cws]. It brings several bug fixes to the extension.
